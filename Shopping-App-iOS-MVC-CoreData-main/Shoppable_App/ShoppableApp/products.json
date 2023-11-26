@@ -1,0 +1,199 @@
+{ "products":
+    [
+        {
+            "id": "1",
+            "name":  "Men's Checked Flannel Shirt",
+            "price": {
+                "value": 1373.90,
+                "currency": "kr"
+            },
+            "info": {
+                "material": "sized M",
+                "color": "black, white"
+            },
+            "type": "tshirt",
+            "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/f/tr:w-270,/5f14f1fTBH-REPOS-GY_1.jpg?rnd=20200526195200"
+        },
+        {
+            "id": "2",
+            "name":  "Men Regular Fit Shirt with Patch Pocket",
+            "price": {
+                "value": 378,
+                "currency": "kr"
+            },
+            "info": {
+                "material": "sized S",
+                "color": "beige"
+            },
+            "type": "tshirt",
+            "imageUrl": "https://assets.ajio.com/medias/sys_master/root/20231025/aB9o/653827aeafa4cf41f55bdc10/-473Wx593H-466743676-black-MODEL.jpg"
+        }, {
+            "id": "3",
+            "name":  "Embroidered Relaxed Fit Shirt",
+            "price": {
+                "value": 339.50,
+                "currency": "kr"
+            },
+            "info": {
+                "material": "cotton",
+                "color": "red"
+            },
+            "type": "tshirt",
+            "imageUrl": "https://assets.ajio.com/medias/sys_master/root/20231025/PL0Y/65392a2bafa4cf41f5603bc3/-473Wx593H-442348773-jetblack-MODEL6.jpg"
+        },
+        {
+            "id": "4",
+            "name":  "Men Slim Fit Checked Shirt",
+            "price": {
+                "value": 749.50,
+                "currency": "kr"
+            },
+            "info": {
+                "material": "cotton",
+                "color": "black"
+            },
+            "type": "tshirt",
+            "imageUrl": "https://assets.ajio.com/medias/sys_master/root/20230602/eDrm/64793ff942f9e729d70e03b1/-473Wx593H-461725396-maroon-MODEL3.jpg"
+        },
+        {
+            "id": "5",
+            "name":  "Mid-Wash Slim Fit Jeans",
+            "price": {
+                "value": 950,
+                "currency": "kr"
+            },
+            "info": {
+                "material": "sized S",
+                "color": "dark blue"
+            },
+            "type": "jeans",
+            "imageUrl": "https://assets.ajio.com/medias/sys_master/root/20220905/tyoZ/6315bed2aeb269dbb36a95ea/-473Wx593H-469152182-indigo-MODEL.jpg"
+        },
+        {
+            "id": "6",
+            "name":  "T-shirt 4",
+            "price": {
+                "value": 1439.60,
+                "currency": "kr"
+            },
+            "info": {
+                "material": "cotton",
+                "color": "black"
+            },
+            "type": "tshirt",
+            "imageUrl": "https://shop.static.ingka.ikea.com/PIAimages/0630092_PE694645_S4.JPG"
+        },
+        {
+            "id": "7",
+            "name":  "Lightly Washed Skinny Fit Jeans",
+            "price": {
+                "value": 980,
+                "currency": "kr"
+            },
+            "info": {
+                "material": "sized L",
+                "color": "multi"
+            },
+            "type": "jeans",
+            "imageUrl": "https://assets.ajio.com/medias/sys_master/root/20220624/F8xj/62b5d87ff997dd03e29e3b92/-473Wx593H-441145324-navy-MODEL.jpg"
+        },
+        {
+            "id": "8",
+            "name":  "Mid-Rise Skinny Jeans",
+            "price": {
+                "value": 270,
+                "currency": "kr"
+            },
+            "info": {
+                "material": "sized M",
+                "color": "black"
+            },
+            "type": "jeans",
+            "imageUrl": "https://assets.ajio.com/medias/sys_master/root/20230726/yLJv/64c14398eebac147fc8ac865/-473Wx593H-420434306-olive-MODEL.jpg"
+        },
+        {
+            "id": "9",
+            "name":  "Pink T-shirt",
+            "price": {
+                "value": 499.50,
+                "currency": "kr"
+            },
+            "info": {
+                "material": "silk",
+                "color": "flanell"
+            },
+            "type": "tshirt",
+            "imageUrl": "https://m.media-amazon.com/images/I/41xs8n1y6aL._AC_UL640_FMwebp_QL65_.jpg"
+        },
+        {
+            "id": "10",
+            "name":  "Regular Fit Jeans",
+            "price": {
+                "value": 49.50,
+                "currency": "kr"
+            },
+            "info": {
+                "material": "wood",
+                "color": "black"
+            },
+            "type": "jeans",
+            "imageUrl": "https://m.media-amazon.com/images/I/61zoG6C57GL._AC_UL640_FMwebp_QL65_.jpg"
+        },
+        {
+            "id": "11",
+            "name":  "Light Blue Jeans",
+            "price": {
+                "value": 119.50,
+                "currency": "kr"
+            },
+            "info": {
+                "material": "jeans material",
+                "color": "black"
+            },
+            "type": "jeans",
+            "imageUrl": "https://m.media-amazon.com/images/I/61g2pJlzo2L._AC_UL640_FMwebp_QL65_.jpg"
+        },
+        {
+            "id": "12",
+            "name":  "Ribbed Jeans",
+            "price": {
+                "value": 49.90,
+                "currency": "kr"
+            },
+            "info": {
+                "material": "cotton",
+                "color": "blue"
+            },
+            "type": "jeans",
+            "imageUrl": "https://m.media-amazon.com/images/I/41zHQNFnC-L._AC_UL640_FMwebp_QL65_.jpg"
+        },
+        {
+            "id": "13",
+            "name":  "Light Grey Jeans",
+            "price": {
+                "value": 39.50,
+                "currency": "kr"
+            },
+            "info": {
+                "material": "cotton",
+                "color": "grey"
+            },
+            "type": "jeans",
+            "imageUrl": "https://m.media-amazon.com/images/I/61hl4aM8pML._AC_UL640_FMwebp_QL65_.jpg"
+        },
+        {
+            "id": "14",
+            "name":  "Black Tee",
+            "price": {
+                "value": 449.50,
+                "currency": "kr"
+            },
+            "info": {
+                "material": "cotton S",
+                "color": "black"
+            },
+            "type": "tshirt",
+            "imageUrl": "https://m.media-amazon.com/images/I/71eUwDk8z+L._AC_UL640_FMwebp_QL65_.jpg"
+        }
+    ]
+}
